@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Tutorial preprocessed stuff
+Tutorial1/tutorial1/Cora/processed/
